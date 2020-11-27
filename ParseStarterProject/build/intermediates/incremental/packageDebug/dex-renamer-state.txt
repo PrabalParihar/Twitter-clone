@@ -1,0 +1,7 @@
+#Fri Sep 23 15:56:13 BST 2016
+base.0=/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bf98cd33fb6f9db8393c49ab982bca42a76d6887
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a3a19a3b225eb0761162f1762ecf33f9fed90668/classes.dex
+base.1=/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a3a19a3b225eb0761162f1762ecf33f9fed90668
+file.0=/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bf98cd33fb6f9db8393c49ab982bca42a76d6887/classes.dex

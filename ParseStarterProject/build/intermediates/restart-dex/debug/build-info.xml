@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="82563945317598"
+    token="-5833292510468097719"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="1246" />
+    <task
+        name="instant-run-dex"
+        duration="1058" />
+    <task
+        name="instant-run-transform"
+        duration="142" />
+    <task
+        name="verifier"
+        duration="12" />
+
+    <artifact
+        location="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="81801131630469"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="82265550363856"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="82563945317598"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

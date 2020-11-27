@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_dad18202da1f77a2b2d4626b645dd15f9fac1a68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_6454d756a1331c0dc72a1a0a08357e1a310c2df6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_7f29fdbf086f00bf2cbd8e183ee665731d51d3f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a9a5b08245989f168b25fec8f19a85525aca871">
+        <dex dex="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bf98cd33fb6f9db8393c49ab982bca42a76d6887/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_0ffe7d443f95420428160cb05d50f28cf5ac26cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_fd1a9a6bd6c70e460d77ecb2a6835e5d124c6ff8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_0b4994ee68e17e3317d65ad7564b736453b11af3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee86ff57f81830b0e4d7f5badc494a0799ba00c1">
+        <dex dex="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a3a19a3b225eb0761162f1762ecf33f9fed90668/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_62c6dbf5a38aab421927af1c70ef6eac339adfd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/robpercival/Desktop/Twitter/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_26d59e1451acc73d360f747e42ad3e924e3ebeb9/classes.dex" />
+    </item>
+
+</items>
