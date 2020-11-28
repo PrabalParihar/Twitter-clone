@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_feed.xml.flat",
+        "source": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\src\\main\\res\\layout\\activity_feed.xml"
+    },
+    {
+        "merged": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\src\\main\\res\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\menu_tweet_menu.xml.flat",
+        "source": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\src\\main\\res\\menu\\tweet_menu.xml"
+    },
+    {
+        "merged": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_twitterlogo.png.flat",
+        "source": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\src\\main\\res\\drawable\\twitterlogo.png"
+    },
+    {
+        "merged": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\prabal prathap singh\\15.04\\Twitter\\ParseStarterProject\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    }
+]

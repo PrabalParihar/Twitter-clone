@@ -1,0 +1,83 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright (c) 2015-present, Parse, LLC.
+4  ~ All rights reserved.
+5  ~
+6  ~ This source code is licensed under the BSD-style license found in the
+7  ~ LICENSE file in the root directory of this source tree. An additional grant
+8  ~ of patent rights can be found in the PATENTS file in the same directory.
+9-->
+10<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+11    package="com.parse.starter"
+12    android:versionCode="1"
+13    android:versionName="1.0" >
+14
+15    <uses-sdk
+16        android:minSdkVersion="9"
+16-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml
+17        android:targetSdkVersion="23" />
+17-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml
+18
+19    <uses-permission android:name="android.permission.INTERNET" />
+19-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
+19-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
+20    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+20-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
+20-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
+21    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+21-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:14:5-80
+21-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:14:22-77
+22
+23    <application
+23-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:16:5-40:19
+24        android:name="com.parse.starter.StarterApplication"
+24-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:17:9-43
+25        android:allowBackup="true"
+25-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:18:9-35
+26        android:debuggable="true"
+27        android:icon="@mipmap/ic_launcher"
+27-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:19:9-43
+28        android:label="@string/app_name"
+28-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:20:9-41
+29        android:testOnly="true"
+30        android:theme="@style/AppTheme" >
+30-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:21:9-40
+31        <meta-data
+31-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:22:9-24:52
+32            android:name="com.parse.APPLICATION_ID"
+32-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:23:13-52
+33            android:value="@string/parse_app_id" />
+33-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:24:13-49
+34        <meta-data
+34-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:25:9-27:56
+35            android:name="com.parse.CLIENT_KEY"
+35-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:26:13-48
+36            android:value="@string/parse_client_key" />
+36-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:27:13-53
+37
+38        <activity
+38-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:29:9-37:20
+39            android:name="com.parse.starter.MainActivity"
+39-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:30:13-41
+40            android:label="@string/app_name" >
+40-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:31:13-45
+41            <intent-filter>
+41-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:32:13-36:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:33:17-69
+42-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:33:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:35:17-77
+44-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:35:27-74
+45            </intent-filter>
+46        </activity>
+47        <activity android:name="com.parse.starter.Main2Activity" />
+47-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:38:9-51
+47-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:38:19-48
+48        <activity android:name="com.parse.starter.Feed" />
+48-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:39:9-51
+48-->E:\prabal prathap singh\15.04\Twitter\ParseStarterProject\src\main\AndroidManifest.xml:39:19-39
+49    </application>
+50
+51</manifest>
